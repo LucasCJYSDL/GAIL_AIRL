@@ -2,6 +2,26 @@
 
 Codebase for my paper: Decision Making for Autonomous Driving via Augmented Adversarial Inverse Reinforcement Learning
 
+Please cite this paper:
+```bash
+@inproceedings{DBLP:conf/icra/WangLCLC21,
+  author       = {Pin Wang and
+                  Dapeng Liu and
+                  Jiayu Chen and
+                  Hanhan Li and
+                  Ching{-}Yao Chan},
+  title        = {Decision Making for Autonomous Driving via Augmented Adversarial Inverse
+                  Reinforcement Learning},
+  booktitle    = {{IEEE} International Conference on Robotics and Automation, {ICRA}
+                  2021, Xi'an, China, May 30 - June 5, 2021},
+  pages        = {1036--1042},
+  publisher    = {{IEEE}},
+  year         = {2021},
+  url          = {https://doi.org/10.1109/ICRA48506.2021.9560907},
+  doi          = {10.1109/ICRA48506.2021.9560907}
+}
+```
+
 Language: Python
 
 The following components are included:
